@@ -8,10 +8,6 @@ classdef constants
     absoluteZero = -273.15; % degC
     c = 2.99792458e8; % m/s, speed of light
 
-    % Sim
-    gridPitchDefault = 0.1e-6; % m
-    gridPointMax = 128;
-
     % Plotting constants
     black = [0 0 0];
     darkGray = [.2 .2 .2];
